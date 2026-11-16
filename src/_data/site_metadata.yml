@@ -1,0 +1,11 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.metadata.title }}, {{ site.metadata.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.metadata.myvariable }}.
+
+title: band.pace.family
+tagline: Wait...does one of the "C's" in "CMC" stand for clarinet??
+email: david.pace@gmail.com
+description: >-
+  This site is all about the CMC's band adventures, starting with the 2026 Bands of America Grand Nationals
